@@ -96,7 +96,7 @@ async function connectToWA() {
       console.log("PINk QUEEN MD connected to whatsapp ✅");
 
       let up = `PINk QUEEN MD connected successful ✅`;
-      let up1 = `Hello Robin, I made bot successful`;
+      let up1 = `Hello CHAMINDU, I made bot successful`;
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
